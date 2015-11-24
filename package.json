@@ -1,0 +1,35 @@
+{
+  "name": "gulp-everything",
+  "version": "0.0.1",
+  "description": "gulp everything",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactsamie/gulp-everything.git"
+  },
+ "scripts": {
+    "test": "mocha -R spec test"
+  },
+  "keywords": [
+    "gulp",
+    "npm"
+  ],
+  "author": "sam <contactsamie@gmail.com> (http://www.interfacesamuel.com/)",
+ "licenses": [
+  {
+    "type": "MIT",
+    "url": "https://github.com/contactsamie/gulp-everything/blob/master/LICENSE"
+  }
+],
+  "bugs": {
+    "url": "https://github.com/contactsamie/gulp-everything/issues"
+  },
+  "homepage": "https://github.com/contactsamie/gulp-everything#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
