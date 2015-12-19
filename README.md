@@ -1,7 +1,7 @@
 gulp-everything
 =========
 
-A small library
+A small TEST library
 
 ## Installation
 
